@@ -4,7 +4,7 @@ Aspiring Data Scientist currently pursuing an M.S. in Data Science at Monroe Col
 
 ## Core Competencies
 
-- **Programming Languages**: Python, SQL, R  
+- **Programming Languages**: Python, SQL
 - **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, Git/GitHub, Visual Studio Code  
 - **Specialties**: Exploratory Data Analysis (EDA), Data Cleaning, Regression Analysis, Machine Learning (beginner level), Data Visualization
